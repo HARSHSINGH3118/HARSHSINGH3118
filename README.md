@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile.jpg" alt="Cover Image" style="width:100%;height:auto;"/>
+  <img src="./assets/Harsh Singh, Developer From India.png" alt="Cover Image" style="width:100%;height:auto;"/>
 </div>
 
 <h1 align="center">
