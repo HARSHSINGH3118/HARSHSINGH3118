@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL" alt="Cover Image" style="width:100%;height:auto;"/>
+  <img src=" https://www.imghippo.com/i/ScJxH1728919577.jpg" alt="Cover Image" style="width:100%;height:auto;"/>
 </div>
 
 <h1 align="center">
@@ -44,7 +44,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </div>
 
 <hr/>
