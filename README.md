@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=" https://www.imghippo.com/i/ScJxH1728919577.jpg" alt="Cover Image" style="width:100%;height:auto;"/>
+  <img src="./assets/profile.jpg" alt="Cover Image" style="width:100%;height:auto;"/>
 </div>
 
 <h1 align="center">
