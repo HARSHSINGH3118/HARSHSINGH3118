@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch: # This is correctly placed
+  workflow_dispatch: # This allows manual dispatching of the workflow
 
 jobs:
   build:
@@ -20,10 +20,13 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Set result using environment file
-      - name: Set result using environment file
-        run: |
-          echo "snake_result=generated" >> $GITHUB_ENV
+      # Save the snake generation status to state
+      - name: Save generation state
+        run: echo "snake_result=generated" >> $GITHUB_STATE
+
+      # Set an output variable for snake generation result
+      - name: Set generation output
+        run: echo "generation_status=success" >> $GITHUB_OUTPUT
 
       # Push the generated snake to the output branch
       - name: Push snake to output branch
@@ -34,7 +37,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Example of using an output from the environment file
+      # Use output from the environment file
       - name: Use output from environment file
         run: |
           echo "Snake generation result: ${{ env.snake_result }}"
+          echo "Generation status: ${{ steps.snake-gif.outputs.generation_status }}"
