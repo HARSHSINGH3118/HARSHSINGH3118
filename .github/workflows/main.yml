@@ -1,41 +1,35 @@
 name: Generate Snake
-  
+
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:  # This is correctly placed
+    - cron: "0 */6 * * *"  # Runs the workflow every 6 hours
+  workflow_dispatch:  # Manually trigger the workflow
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       # Checkout the repository
-      - uses: actions/checkout@v3
-      
-      # Generate the snake gif and svg
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate the snake gif and svg using Platane's snk action
+      - name: Generate Snake GIF and SVG
+        uses: Platane/snk@master
         with:
           github_user_name: HARSHSINGH3118
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # If there are any outputs that need to be set (though your workflow currently doesn't show it)
-      # For example, instead of using ::set-output, do the following:
-      - name: Set result using environment file
-        run: |
-          echo "snake_result=generated" >> $GITHUB_ENV
-
       # Push the generated snake to the output branch
-      - name: Push snake to output branch
+      - name: Push snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output  # Ensure you have an "output" branch
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Example of using an output (this is just an example placeholder)
-      - name: Use output from environment file
-        run: |
-          echo "Snake generation result: ${{ env.snake_result }}"
+      # Print confirmation that the snake was generated
+      - name: Confirm Snake Generation
+        run: echo "Snake generation completed and pushed to output branch."
