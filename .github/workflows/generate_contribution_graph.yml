@@ -1,6 +1,5 @@
 name: Update GitHub Contribution Graph
 
-# This action runs every day at midnight and on manual trigger
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight every day
@@ -69,19 +68,26 @@ jobs:
         # Count the commits per day
         commit_counts = [commit_dates.count(day) for day in date_range]
 
-        # Plot the graph
-        plt.figure(figsize=(10, 5))
-        plt.plot(date_range, commit_counts, marker='o', linestyle='-', color='b')
-        plt.fill_between(date_range, commit_counts, color='skyblue', alpha=0.4)
+        # Apply dark background style
+        plt.style.use('dark_background')
 
-        plt.title(f'{USERNAME} GitHub Contribution Graph')
-        plt.xlabel('Date')
-        plt.ylabel('Commits')
-        plt.grid(True)
+        # Plot the graph with dark theme
+        plt.figure(figsize=(10, 5))
+        plt.plot(date_range, commit_counts, marker='o', linestyle='-', color='#00FF00')  # Neon green color for the line
+        plt.fill_between(date_range, commit_counts, color='#00AA00', alpha=0.3)  # Darker green fill
+
+        # Customizing labels and title
+        plt.title(f'{USERNAME} GitHub Contribution Graph', color='white')
+        plt.xlabel('Date', color='white')
+        plt.ylabel('Commits', color='white')
+
+        # Grid and tight layout with dark background in mind
+        plt.grid(True, color='gray', linestyle='--', alpha=0.5)
         plt.tight_layout()
 
         # Save the graph as a PNG file
         plt.savefig('github_contribution_graph.png')
+
         EOF
 
     # Step 5: Commit and push the updated graph to the repository
@@ -90,5 +96,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add github_contribution_graph.png
-        git commit -m "Updated GitHub contribution graph"
+        git commit -m "Updated GitHub contribution graph with dark theme"
         git push
