@@ -42,11 +42,20 @@
 
 <hr/>
 
-## Instagram Profile Card
+<h2 align="center">⚒️ Connect me on Instagram ⚒️</h2>
 
-![Instagram Card](./assets/profile_qr.jpg)
+<div align="center" style="border: 1px solid #333; padding: 3px; border-radius: 5px; width: 80px;">
+  <img src="./assets/profile_qr.jpg" alt="Instagram Card" style="width: 250px; height: auto; border-radius: 3px;" />
+ </div>
+ 
+<div align="center">
+  
+  [Click here to view the interactive version](https://harshsingh3118.github.io/Insta_card/)
+</div>
 
-[Click here to view the interactive version](https://harshsingh3118.github.io/Insta_card/)
+
+
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
