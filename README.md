@@ -44,7 +44,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 </div>
 
 <hr/>
@@ -58,7 +58,6 @@
 </div>
 
 [![An image of @harshsingh3118's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshsingh3118)](https://holopin.io/@harshsingh3118)
-
 <hr/>
 
 <div align="center">
