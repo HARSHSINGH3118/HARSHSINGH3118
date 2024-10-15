@@ -59,6 +59,11 @@
 
 <br/>
 
+<div align="center">
+   <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/main/github_contribution_graph.png" alt="GitHub Contribution Line Graph" />
+</div>
+
+
 <!-- Space between Most Used Languages and Holopin Badges -->
 <br/><br/>
 
