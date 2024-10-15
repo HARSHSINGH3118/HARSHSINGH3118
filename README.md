@@ -60,9 +60,8 @@
 <br/>
 
 <div align="center">
-   <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/main/github_contribution_graph.png" alt="GitHub Contribution Line Graph" />
+   <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/main/assets/github_contribution_graph.png" alt="GitHub Contribution Line Graph" />
 </div>
-
 
 <!-- Space between Most Used Languages and Holopin Badges -->
 <br/><br/>
@@ -70,8 +69,6 @@
 [![An image of @harshsingh3118's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshsingh3118)](https://holopin.io/@harshsingh3118)
 
 <hr/>
-
- 
 
 <div align="center">
   <h3> Created By student for students</h3>
