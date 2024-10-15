@@ -42,12 +42,11 @@
 
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</div>
+## Instagram Profile Card
 
-<hr/>
+![Instagram Card](./assets/profile_qr.jpg)
+
+[Click here to view the interactive version](https://harshsingh3118.github.io/Insta_card/)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
