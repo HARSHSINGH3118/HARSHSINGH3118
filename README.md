@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/harsh-singh-73758325a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://harshsingh3118.github.io/Portfolio/" target="_blank">
+  <a href="https://harshsingh3118.github.io/project_3D_developer_portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
