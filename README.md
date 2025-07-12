@@ -69,40 +69,87 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+  <!-- Frontend + UI -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,figma" />
+
+  <!-- Backend + Dev -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" />
+
+  <!-- DevOps + Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,github,git,vscode,vercel,netlify,postman" />
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+
+  <!-- AI/ML + Data (manually added via shields or custom later if needed) -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </div>
+
 
 <hr/>
 
- 
+<h2 align="center">⚡ GitHub Stats</h2>
 
-
- 
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=HARSHSINGH3118&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=HARSHSINGH3118&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=HARSHSINGH3118&count_private=true&theme=github-dark&border_radius=10" width="390" />
+
+  <!-- General GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHSINGH3118&show_icons=true&count_private=true&theme=github_dark&border_radius=10&rank_icon=github" width="390" />
+
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHSINGH3118&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHSINGH3118&layout=compact&theme=github_dark&border_radius=10" width="325" />
+
 </div>
+<hr/>
 
-<br/>
+<h2 align="center"'>📌 Featured Projects</h2>
 
-<div align="center">
-   <img src="https://github.com/HARSHSINGH3118/HARSHSINGH3118/blob/main/assets/github_contribution_graph.png" alt="GitHub Contribution Line Graph" />
-</div>
+- 🏥 **Medical Automation System**  
+  Smart patient management system with doctor dashboards and digital prescription handling.  
+  *Tech:* React, Node.js, Express, MongoDB, JWT
 
+- 🏋️‍♂️ **FitFusion**  
+  A fitness and workout tracking platform with real-time stats, university-featured.  
+  *Tech:* React, Firebase, Chart.js
+
+- 🧠 **HR Dashboard with Next.js**  
+  An admin-first dashboard to manage candidates, reports, and notifications.  
+  *Tech:* Next.js, Zustand, TailwindCSS, PostgreSQL
+
+- 🔐 **SafeClick: Cyber Awareness Portal**  
+  Gamified platform educating users on phishing, password hygiene, and fraud prevention.  
+  *Tech:* React, Redux Toolkit, GSAP (animations), Express.js
+
+<hr/>
+<h2 align="center"'>🧠 Data Structures & Algorithms</h2>
+- Solved 300+ problems on LeetCode and GeeksforGeeks  
+  → [LeetCode Profile](https://leetcode.com/HARSHSINGH3118/)  
+
+- Strong foundation in **C++**, focusing on:
+  - Dynamic Programming  
+  - Binary Trees & Graphs  
+  - Sliding Window & Greedy Patterns  
+
+- Preparing for **SDE and AI roles** with deep dives into:
+  - System Design  
+  - Optimization Techniques
 <!-- Space between Most Used Languages and Holopin Badges -->
 
-<br/><br/>
+## 🏅 Holopin Badges
 
-[![An image of @harshsingh3118's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshsingh3118)](https://holopin.io/@harshsingh3118)
+<div align="center">
+  <a href="https://holopin.io/@harshsingh3118" target="_blank">
+    <img src="https://holopin.me/harshsingh3118" alt="An image of @harshsingh3118's Holopin badges" width="80%" />
+  </a>
+</div>
 
-<hr/>
 
 <div align="center">
   <h3> Created By student for students</h3>
