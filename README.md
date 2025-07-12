@@ -142,16 +142,58 @@
   - Optimization Techniques
 <!-- Space between Most Used Languages and Holopin Badges -->
 
-## 🏅 Holopin Badges
+ ## 🏅 Achievements & Badges
 
 <div align="center">
-  <a href="https://holopin.io/@harshsingh3118" target="_blank">
-    <img src="https://holopin.me/harshsingh3118" alt="An image of @harshsingh3118's Holopin badges" width="80%" />
-  </a>
+
+<!-- LeetCode Badges as individual cards -->
+<img src="https://img.shields.io/badge/LeetCode%2075-Completed-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Top%20SQL%2050-Achieved-4B8BBE?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Top%20Interview%20150-Active-success?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/50%20Days%20Badge-Consistency-FACC15?style=for-the-badge&logo=clockify&logoColor=black" />
+<img src="https://img.shields.io/badge/Daily%20Challenge-In%20Progress-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<br/><br/>
+
+<!-- Holopin Badge Board -->
+<a href="https://holopin.io/@harshsingh3118" target="_blank">
+  <img src="https://holopin.me/harshsingh3118" alt="Holopin badge board" width="85%" />
+</a>
+
+<br/><br/>
+
+<!-- Contributor Badge -->
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github" />
+
 </div>
 
+ <hr/>
+ 
 
 <div align="center">
-  <h3> Created By student for students</h3>
-  <h2>🙎‍♂️ Pitaji My World Is Around You 🌐</h2>
+
+  <h3>🚀 <strong>Built by a student, for students</strong><br>Empowering the next generation of engineers & dreamers</h3>
+
+  
+
+  <p>
+    💡 Whether it’s <strong>shipping code</strong>, <strong>debugging logic</strong>, or <strong>dreaming in C++</strong> —  
+    I build with passion, curiosity, and gratitude.  
+  </p>
+
+  <p>
+    📬 <em>If you're reading this, you're already part of the journey.</em>
+  </p>
+
 </div>
+
+<!-- Typing animation for personal quote -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=2000&color=F58A07&center=true&vCenter=true&width=600&lines=“Pitaji%2C+my+world+revolves+around+you.”" alt="Typing SVG" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Harsh%20Singh-blueviolet?style=for-the-badge&logo=github" />
+</div>
+
