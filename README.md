@@ -52,15 +52,15 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/HARSHSINGH3118/" target="_blank">
+  <a href="https://leetcode.com/u/harsh_singh3110/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <a href="https://auth.geeksforgeeks.org/user/harsh31102005/profile" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/harsh_singh3110/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/_harsh.singh._/" target="_blank">
+  <a href="https://www.instagram.com/gaharwar_harsh31/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
@@ -77,20 +77,10 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Connect me on Instagram ⚒️</h2>
-
-<div align="center" style="border: 1px solid #333; padding: 3px; border-radius: 5px; width: 80px;">
-  <img src="./assets/profile_qr.jpg" alt="Instagram Card" style="width: 250px; height: auto; border-radius: 3px;" />
- </div>
  
-<div align="center">
-  
-  [Click here to view the interactive version](https://harshsingh3118.github.io/Insta_card/)
-</div>
 
 
-
-<hr/>
+ 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
