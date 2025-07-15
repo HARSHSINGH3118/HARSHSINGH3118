@@ -1,5 +1,7 @@
 <div align="center">
-   <img width="851" height="315" alt="Harsh Singh, Developer From India (1)" src="https://github.com/user-attachments/assets/37f6cdf0-6e2c-454b-b0ce-fc284feb538d" />
+<!--    <img width="851" height="315" alt="Harsh Singh, Developer From India (1)" src="https://github.com/user-attachments/assets/37f6cdf0-6e2c-454b-b0ce-fc284feb538d" /> -->
+   <img width="1536" height="1024" alt="ChatGPT Image Jul 15, 2025, 01_16_33 AM" src="https://github.com/user-attachments/assets/6900eac4-5638-43e8-9a3f-86c63a4a3b39" />
+
 </div>
 
 <!-- =========================== Moving Text and About Me=========================== -->
